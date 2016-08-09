@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>UT Libraries Map</name>
+		<description><![CDATA[Map of Libraries at the University of Texas at Austin]]></description>
+		<Folder>
+			<name>Libraries</name>
+			<Placemark>
+				<name>Harry Ransom Center</name>
+				<description><![CDATA[URL: www.hrc.utexas.edu<br>Description: <br>Latitude: 30.284<br>Longitude: -97.741]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.hrc.utexas.edu</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.284282</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.74124</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.74122669999997,30.2843406,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Architecture &amp; Planning Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/apl<br>Description: <br>Latitude: 30.285<br>Longitude: -97.74]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/apl</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.285466</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.740283</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.74043139999998,30.2854163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blanton Museum of Art</name>
+				<description><![CDATA[URL: www.blantonmuseum.org<br>Description: <br>Latitude: 30.281<br>Longitude: -97.74]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.blantonmuseum.org</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.2809924</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7395908</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73746210000002,30.2810198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Life Science Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/lsl<br>Description: <br>Latitude: 30.286<br>Longitude: -97.739]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/lsl</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.2861578</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7394751</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.7393482,30.2861893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Classics Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/classics<br>Description: <br>Latitude: 30.285<br>Longitude: -97.738]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/classics</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.2849233</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7378147</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73758930000002,30.284994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Perry-Castañeda Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/pcl<br>Description: <br>Latitude: 30.283<br>Longitude: -97.738]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/pcl</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.282657</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.738208</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73820790000002,30.2826575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mallet Chemistry Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/chem<br>Description: <br>Latitude: 30.287<br>Longitude: -97.737]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/chem</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.286643</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.737467</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.7375778,30.2869721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Walter Geology Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/geology<br>Description: <br>Latitude: 30.286<br>Longitude: -97.736]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/geology</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.2858123</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7363612</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73571479999998,30.2859018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Physics-Math Astronomy Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/pma<br>Description: <br>Latitude: 30.289<br>Longitude: -97.736]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/pma</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.288987</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.736364</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73644560000002,30.28903359999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Collections Deposit Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/about/hours?chosenDate=today&CollectionsDepositLibrary=yes<br>Description: <br>Latitude: 30.279<br>Longitude: -97.733]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/about/hours?chosenDate=today&amp;CollectionsDepositLibrary=yes</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.278797</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.733116</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73302160000003,30.2787554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Stark Center for Physical Culture and Sports</name>
+				<description><![CDATA[URL: www.starkcenter.org<br>Description: <br>Latitude: 30.285<br>Longitude: -97.733]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.starkcenter.org</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.284505</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7327036</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73196300000001,30.284629,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texas Memorial Museum</name>
+				<description><![CDATA[URL: tmm.utexas.edu<br>Description: <br>Latitude: 30.287<br>Longitude: -97.732]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>tmm.utexas.edu</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.287053</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.732416</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.7323609,30.28698039999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fine Arts Library</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/fal<br>Description: <br>Latitude: 30.286<br>Longitude: -97.732]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/fal</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.285728</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.7319203</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.7317597,30.2858416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tarlton Law Library</name>
+				<description><![CDATA[URL: tarlton.law.utexas.edu<br>Description: <br>Latitude: 30.289<br>Longitude: -97.732]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>tarlton.law.utexas.edu</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.288599</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.731729</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.73170390000001,30.28854809999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBJ Presidential Library</name>
+				<description><![CDATA[URL: www.lbjlibrary.org<br>Description: <br>Latitude: 30.286<br>Longitude: -97.729]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lbjlibrary.org</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.285765</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.729245</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.7292372,30.2858787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Nettie Lee Benson Latin American Collection</name>
+				<description><![CDATA[URL: www.lib.utexas.edu/benson<br>Description: <br>Latitude: 30.284<br>Longitude: -97.729]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.lib.utexas.edu/benson</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.284105</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.729067</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.72908410000002,30.2841566,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dolph Briscoe Center for American History</name>
+				<description><![CDATA[URL: www.cah.utexas.edu<br>Description: <br>Latitude: 30.285<br>Longitude: -97.729]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>www.cah.utexas.edu</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.28524</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.728798</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.72879899999998,30.28529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lady Bird Johnson Wildflower Center</name>
+				<description><![CDATA[URL: http://www.wildflower.org/<br>Description: <br>Latitude: 30.185<br>Longitude: -97.874]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>http://www.wildflower.org/</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>30.185429</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.874032</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.8739778,30.185425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marine Science Library</name>
+				<description><![CDATA[URL: http://www.lib.utexas.edu/msl/<br>Description: <br>Latitude: 27.837<br>Longitude: -97.055]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='URL'>
+						<value>http://www.lib.utexas.edu/msl/</value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='Latitude'>
+						<value>27.8368451</value>
+					</Data>
+					<Data name='Longitude'>
+						<value>-97.0551076</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.0549393,27.8369511,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,6 @@
+framework module Pods_Inclusive_U {
+  umbrella header "Pods-Inclusive U-umbrella.h"
+
+  export *
+  module * { export * }
+}

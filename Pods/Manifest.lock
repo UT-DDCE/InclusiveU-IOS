@@ -1,0 +1,41 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - GoogleMaps (1.13.2)
+  - iOS-KML-Framework (0.0.2):
+    - TBXML (~> 1.5)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - PINCache (2.2.2)
+  - PINRemoteImage (3.0.0-beta.2):
+    - PINRemoteImage/FLAnimatedImage (= 3.0.0-beta.2)
+  - PINRemoteImage/Core (3.0.0-beta.2):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/FLAnimatedImage (3.0.0-beta.2):
+    - FLAnimatedImage (>= 1.0)
+    - PINRemoteImage/Core
+  - TBXML (1.5)
+  - TUSafariActivity (1.0.4)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - iOS-KML-Framework
+  - NJKWebViewProgress (~> 0.2)
+  - PINRemoteImage (= 3.0.0-beta.2)
+  - TUSafariActivity (~> 1.0)
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  iOS-KML-Framework: a3428baabee9bba6fa8d8246223619277f1bc430
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  PINCache: 078426d356ab95ef875e9e62e5c35a2ea3333c28
+  PINRemoteImage: 197554c5ba57a6ae90f5db441651180039fc9062
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+  TUSafariActivity: afc55a00965377939107ce4fdc7f951f62454546
+
+PODFILE CHECKSUM: c1725f6505c2b3cd9f2801396199cf9560f5e871
+
+COCOAPODS: 1.0.0
